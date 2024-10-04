@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to profile! 
+
+### Where to find me
+[![My LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/jjavier848/)
+[![My GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)](https://cloggedtoaster.github.io/)
+
 <!--
 **CloggedToaster/CloggedToaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
