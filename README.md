@@ -1,14 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-Welcome to profile! 
+<p align="center">Welcome to my profile!</p>
 
-### Where to find me
+<h1 align="center">Where to find me</h1>
 
 <div align="center">
 
 [![My LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/jjavier848/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![My GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)](https://cloggedtoaster.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge)](https://www.duolingo.com/profile/.existence27)
+
 
 </div>
 
